@@ -1,0 +1,4 @@
+Ken: 10
+Bob: 4
+In the last game: 
+Ken beat Bob
